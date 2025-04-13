@@ -1,15 +1,11 @@
-body(
-    background-color: #111111;
-)
-
-h1(
-    color: #00FF73;
-    font-family: "press Start 2P", sans-serif;
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
 }
-)
-p{
-    color: #FFFFFF;
-    font-family: "consolas", sans-serif;
-    font-style: italic;
-    font-weight: bold;
+
+.dark-mode {
+  background-color: black;
+  color: white;
 }
